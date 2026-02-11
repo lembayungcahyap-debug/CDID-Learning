@@ -18,8 +18,11 @@
 -- CONFIGURATION
 -- ============================================================================
 
--- 🔧 CHANGE THIS TO YOUR GITHUB RAW URL
-local SCRIPT_URL = "https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/LunarV2_Refactored.lua"
+-- 🔧 GITHUB RAW URL (Auto-updates from main branch)
+local SCRIPT_URL = "https://raw.githubusercontent.com/lembayungcahyap-debug/CDID-Learning/main/LunarV2_Refactored.lua"
+
+-- Alternative: Specific commit (static, won't auto-update)
+-- local SCRIPT_URL = "https://raw.githubusercontent.com/lembayungcahyap-debug/CDID-Learning/6f3c530b3d2bc4bcffc5813986f72e0a6d346cec/LunarV2_Refactored.lua"
 
 -- Script Information
 local SCRIPT_INFO = {
